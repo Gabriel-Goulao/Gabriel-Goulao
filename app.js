@@ -1,4 +1,3 @@
-// 1. Criando variáveis com dados do Gabriel
 const devName = "Gabriel"; 
 let age = 18; 
 let isEmployed = false; 
